@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rohit!](https://nnrohu.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yamuna!](https://yamuna-kumari.github.io) 
 <!-- 
 <a href="https://www.linkedin.com/in/kunal-kushwaha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -21,7 +21,7 @@
 ### About Me 🚀
 🎓 I’m a Student of Cloud Computing. </br>
 👨‍💻  I am passionate about AR/VR, Mobile Dev, Data Science Machine Learning, DevOps & I enjoy learning new things. </br>
-<--
+<!--
 ### My Experiences 🙌
 - [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working on mobile app development.
 
