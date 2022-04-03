@@ -1,5 +1,8 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yamuna!](https://yamuna-kumari.github.io) 
-<!-- 
+## Hey <img src="./images/Hi.gif" width="29px">, I'm [Yamuna!](https://yamuna-kumari.github.io)
+
+### The Game
+ [Play Now]('./Game/index.html')
+<!--
 <a href="https://www.linkedin.com/in/kunal-kushwaha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -16,18 +19,14 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 
-<br />
-
 ### About Me 🚀
-🎓 I’m a Student of Cloud Computing. </br>
-👨‍💻  I am passionate about AR/VR, Mobile Dev, Data Science Machine Learning, DevOps & I enjoy learning new things. </br>
-<!--
-### My Experiences 🙌
-- [Mobile Developer (Veative Labs)](https://www.veative.com/) - I am working on mobile app development.
 
-- [Software Developer](http://www.ethermedicare.com/) - Worked on a Medicare app for audio, video conferencing functionality and used firestore as backend.
--->
+🎓 I’m a Student of Cloud Computing.
+
+👨‍💻 I am passionate about AR/VR, Mobile Dev, Data Science Machine Learning, DevOps & I enjoy learning new things.
+
+
 
 ![Yamuna github stats](https://github-readme-stats.vercel.app/api?username=yamuna-kumari&show_icons=true&hide_border=true)
-<br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yamuna-kumari.yamuna-kumari)
