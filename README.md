@@ -21,7 +21,7 @@
 
 ### About Me 🚀
 
-🎓 I’m a Student of Cloud Computing.
+🎓 I’m a Student of Computer Science.
 
 👨‍💻 I am passionate about AR/VR, Mobile Dev, Data Science Machine Learning, DevOps & I enjoy learning new things.
 
